@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+This should be something new! :upside_down_face:
 Use the left arrow to go back!
